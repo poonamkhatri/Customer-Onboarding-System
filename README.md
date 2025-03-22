@@ -4,7 +4,7 @@
 
 A full-stack customer onboard system with **Node.js (Express + TypeScript) + /MySQL** backend and **React.js** frontend. Supports CRUD operations, external API sync (Zoho CRM), and a simple dashboard with Axios integration. 🚀  
 
-## Features  
+## Tech 
 -  **REST API** – Create, Read, Sync customers  
 -  **Validation** – `express-validator`  
 -  **Database** – MySQL  
